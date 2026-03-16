@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "Dream",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "ForsakensAFKbot1",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Forsaken1011-r16n.aternos.me",
+    "ip": "Forsaken1011-r16n.aternos.me:63355",
     "port": 63355,
     "version": "",
     "try-creative": false
@@ -31,9 +31,6 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
