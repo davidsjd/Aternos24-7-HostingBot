@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Forsaken1011-r16n.aternos.me",
-    "port": 63355,
+    "ip": "ForsakenSMP-LoEu.aternos.me",
+    "port":  56496,
     "version": "1.21.11",
     "try-creative": false
   },
